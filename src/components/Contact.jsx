@@ -24,9 +24,7 @@ const Contact = () => {
             <li className="flex items-start">
               <MapPin className="text-primary mr-4 shrink-0 mt-1" size={20} />
               <span className="leading-relaxed">
-                RUKHMINI NAGAR,<br/>
-                AMARAVATI, MAHARASHTRA 444606,<br/>
-                INDIA
+              RUKHMINI NAGAR, RUKHMINI NAGAR, AMARAVATI, AMARAVATI, RUKHMINI NAGAR, AMARAVATI, MAHARASHTRA, AMRAVATI - 444606, India.
               </span>
             </li>
 
