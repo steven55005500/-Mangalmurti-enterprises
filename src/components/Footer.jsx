@@ -49,14 +49,13 @@ const Footer = () => {
               <MapPin className="text-teal-500 mr-3 shrink-0 mt-1" size={18} />
                <span className="leading-relaxed">
                 RUKHMINI NAGAR,<br/>
-                <br/>
-                AMRAVATI, Maharashtra 444606,<br/>
-                India
+                AMRAVATI, MAHARASHTRA 444606,<br/>
+                INDIA
               </span>
             </li>
 <li className="flex items-center">
   <Phone className="text-teal-500 mr-3 shrink-0" size={18} />
-  <a href="tel:+919834493055" className="hover:underline">
+  <a href="tel:+918412983666" className="hover:underline">
     +91 9834493055
   </a>
 </li>
@@ -64,7 +63,7 @@ const Footer = () => {
 <li className="flex items-center">
   <Mail className="text-teal-500 mr-3 shrink-0" size={18} />
   <a href="mailto:DHIRAJ@Mangalmurti Enterprises.online" className="hover:underline">
-    Dhiraj@MangalmurtiEnterprises.online
+    dhirajdeshmukh989@gmail.com
   </a>
 </li>
 
