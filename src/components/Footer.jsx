@@ -49,14 +49,14 @@ const Footer = () => {
               <MapPin className="text-teal-500 mr-3 shrink-0 mt-1" size={18} />
                <span className="leading-relaxed">
                 RUKHMINI NAGAR,<br/>
-                AMRAVATI, MAHARASHTRA 444606,<br/>
+                AMARAVATI, MAHARASHTRA 444606,<br/>
                 INDIA
               </span>
             </li>
 <li className="flex items-center">
   <Phone className="text-teal-500 mr-3 shrink-0" size={18} />
   <a href="tel:+918412983666" className="hover:underline">
-    +91 9834493055
+    +91 8412983666
   </a>
 </li>
 
