@@ -11,18 +11,7 @@ const About = () => {
           </p>
         </div>
         
-        <div className="mt-16 text-center">
-          <h3 className="text-2xl font-bold mb-8 text-gray-900">Meet Our Leadership</h3>
-          <div className="flex justify-center">
-            <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 w-64 text-center shadow-sm hover:shadow-md transition-shadow">
-              <div className="w-24 h-24 bg-primary rounded-full mx-auto mb-4 flex items-center justify-center text-white text-3xl font-bold">
-                S
-              </div>
-              <h4 className="font-bold text-lg text-gray-900">Mr Dhiraj </h4>
-              <p className="text-sm text-primary font-medium mt-1">CEO & Founder</p>
-            </div>
-          </div>
-        </div>
+        
       </div>
     </section>
   );
