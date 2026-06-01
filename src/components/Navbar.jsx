@@ -9,7 +9,7 @@ const Navbar = ({ onOpenLogin }) => {
     <nav className="bg-white shadow-sm sticky top-0 z-50">
       <div className="flex justify-between items-center px-4 md:px-10 py-4">
         <Link to="/" className="text-xl md:text-2xl font-bold text-primary tracking-wide">
-          SHRIVEDH
+           Mangalmurti enterprises
         </Link>
         
         {/* Desktop Links (Mobile pe hide rahenge) */}

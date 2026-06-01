@@ -24,9 +24,9 @@ const Contact = () => {
             <li className="flex items-start">
               <MapPin className="text-primary mr-4 shrink-0 mt-1" size={20} />
               <span className="leading-relaxed">
-                Office No. 205, Tech Park Plaza,<br/>
-                S.V. Road, Malad West,<br/>
-                Mumbai, Maharashtra 400064,<br/>
+                RUKHMINI NAGAR,<br/>
+                <br/>
+                AMRAVATI, Maharashtra 444606,<br/>
                 India
               </span>
             </li>
@@ -40,8 +40,8 @@ const Contact = () => {
 
 <li className="flex items-center">
   <Mail className="text-teal-500 mr-3 shrink-0" size={18} />
-  <a href="mailto:shruti@shrived.online" className="hover:underline">
-    shruti@shrived.online
+  <a href="mailto:DHIRAJ@Mangalmurti Enterprises.online" className="hover:underline">
+    Dhiraj@MangalmurtiEnterprises.online
   </a>
 </li>
 
@@ -92,7 +92,7 @@ const Contact = () => {
             <div className="flex items-start gap-3">
               <input type="checkbox" id="consent" className="mt-1" />
               <label htmlFor="consent" className="text-xs text-gray-500">
-I Authorize SHRIVEDH  to Send Notification Via SMS/RCS/Whatsapp/Email
+I Authorize  Mangalmurti enterprises  to Send Notification Via SMS/RCS/Whatsapp/Email
               </label>
             </div>
 

@@ -12,7 +12,7 @@ const Terms = () => {
           
           <div>
             <h2 className="text-lg font-bold text-primary mb-3">1. Service Agreement</h2>
-            <p>By engaging SHRIVEDH's services, you agree to these terms and conditions. All projects are subject to scope definition, timeline agreement, and payment terms outlined in the project proposal.</p>
+            <p>By engaging  Mangalmurti enterprises's services, you agree to these terms and conditions. All projects are subject to scope definition, timeline agreement, and payment terms outlined in the project proposal.</p>
           </div>
 
           <div>
@@ -47,12 +47,12 @@ const Terms = () => {
 
           <div>
             <h2 className="text-lg font-bold text-primary mb-3">8. Limitation of Liability</h2>
-            <p>SHRIVEDH's liability is limited to the total project cost. We are not liable for indirect, consequential, or incidental damages arising from our services or deliverables.</p>
+            <p> Mangalmurti enterprises's liability is limited to the total project cost. We are not liable for indirect, consequential, or incidental damages arising from our services or deliverables.</p>
           </div>
 
           <div>
             <h2 className="text-lg font-bold text-primary mb-3">9. Termination</h2>
-            <p>Either party may terminate the agreement with written notice. Upon termination, client pays for work completed to date. All deliverables and intellectual property remain with SHRIVEDH until full payment.</p>
+            <p>Either party may terminate the agreement with written notice. Upon termination, client pays for work completed to date. All deliverables and intellectual property remain with  Mangalmurti enterprises until full payment.</p>
           </div>
 
           <div>
